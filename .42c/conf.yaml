@@ -1,3 +1,0 @@
-apis:
-  src/main/resources/openapi/contactManager.yaml:
-    alias: "contactmanager-api"
